@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Kashif Beckford\source\repos\Laundromat\Laundromat\main.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kashif Beckford\source\repos\Laundromat\Laundromat\main.cpp(54,16): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Kashif Beckford\source\repos\Laundromat\Laundromat\main.cpp(62,4): warning C4551: function call missing argument list
+C:\Users\Kashif Beckford\source\repos\Laundromat\Laundromat\main.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+  Laundromat.vcxproj -> C:\Users\Kashif Beckford\source\repos\Laundromat\Debug\Laundromat.exe
